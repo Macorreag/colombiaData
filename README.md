@@ -1,3 +1,5 @@
+
+
 ## Municipios y Departamentos de Colombia API
 
 Esta es una documentación para el uso de una API para el manejo de datos sobre la divición politica de colombia.
@@ -65,6 +67,11 @@ En hojas de calculo de Google Importe los rangos de la siguiente manera :
 https://spreadsheets.google.com/feeds/cells/134dUP-ejxdPXaZi1dkYjMdhqdk5gmuQIdSecgdHrXiw/1/public/full?alt=json
 
 
+
+
+## Entidades prestadoras de Salud 
+
+Respuesta 1278 solicitudes de ciudadanos https://www.datos.gov.co/Participaci-n-ciudadana/Datos-Abiertos-Solicitados-Por-Los-Ciudadanos-En-L/9it7-3gvu/data no tiene end point y solo esta en excel.
 
 
 ## Por Incluir
