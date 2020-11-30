@@ -70,4 +70,6 @@ https://spreadsheets.google.com/feeds/cells/134dUP-ejxdPXaZi1dkYjMdhqdk5gmuQIdSe
 ## Por Incluir
 - Unir los datos acorde a la [Norma ISO 3166 COUNTRY CODES](https://www.iso.org/iso-3166-country-codes.html) para poder utilizar estos datos en plataformas que utilzan este estandar como guia.
 - Se plantea la mejora mediante la inclusión de un Script de Google que facilite el acceso a estos datos por ejemplo con la librería [librería](https://github.com/bradjasper/ImportJSON).
+- Se plantea la publicación de una mezcla entre el dataset recuperado y la nueva publicación del dataSet en Datos Abiertos 
+Colombia
 
