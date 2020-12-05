@@ -74,9 +74,31 @@ https://spreadsheets.google.com/feeds/cells/134dUP-ejxdPXaZi1dkYjMdhqdk5gmuQIdSe
 Respuesta 1278 solicitudes de ciudadanos https://www.datos.gov.co/Participaci-n-ciudadana/Datos-Abiertos-Solicitados-Por-Los-Ciudadanos-En-L/9it7-3gvu/data no tiene end point y solo esta en excel.
 
 
+## Procuraduria General de la nación
+La procuraduria tiene datos muy dispersos y poco accesibles, aquí algunos enlaces que proporcionan en su web:
+
+**Directorio de dependencias**_(El mas completo de todos )_ : https://www.procuraduria.gov.co/portal/index.jsp?option=co.gov.pgn.portal.frontend.component.pagefactory.DependenciaComponentPageFactory
+
+**directorio de Sedes Regionales y Provinciales**
+
+https://www.procuraduria.gov.co/portal/sedes.page
+
+tienen un con marcadores de Google y ademas tienen 2 hojas de google sheets con algunos datos tabulados aquí los enlaces a la hoja de google sheets que esta de manera publica(los datos se pueden consumir desde ahí directo y al parecer son dos hojas de el mismo libro de Google Sheets) 
+
+PGN regionales y pronvinciales : 2. PROVINCIALES
+
+https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQsKL-Rcv6p79tuN-JrjXCuws89lAylITAbgYaQkTmvWNFyNzSlwqN6GowrJHqHbsBia2PjeD98t01z/pubhtml/sheet?headers=false&gid=798715752
+
+PGN regionales y pronvinciales : 1. REGIONALES
+
+https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQsKL-Rcv6p79tuN-JrjXCuws89lAylITAbgYaQkTmvWNFyNzSlwqN6GowrJHqHbsBia2PjeD98t01z/pubhtml?gid=1160064317&single=true&widget=true&headers=false
+
+**
+
 ## Por Incluir
 - Unir los datos acorde a la [Norma ISO 3166 COUNTRY CODES](https://www.iso.org/iso-3166-country-codes.html) para poder utilizar estos datos en plataformas que utilzan este estandar como guia.
 - Se plantea la mejora mediante la inclusión de un Script de Google que facilite el acceso a estos datos por ejemplo con la librería [librería](https://github.com/bradjasper/ImportJSON).
 - Se plantea la publicación de una mezcla entre el dataset recuperado y la nueva publicación del dataSet en Datos Abiertos 
 Colombia
 
+*
