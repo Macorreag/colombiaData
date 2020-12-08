@@ -61,6 +61,12 @@ En hojas de calculo de Google Importe los rangos de la siguiente manera :
 =IMPORTRANGE("https://docs.google.com/spreadsheets/d/134dUP-ejxdPXaZi1dkYjMdhqdk5gmuQIdSecgdHrXiw/edit?usp=sharing";"Data!D1:F1124")
 ```
 
+Tratamiento de los datos en la consulta con Google Query 
+**Municipiso de Antioquia en Mayusculas**
+```
+=Query({IMPORTRANGE("134dUP-ejxdPXaZi1dkYjMdhqdk5gmuQIdSecgdHrXiw";"Data!C:E")};"SELECT upper(Col3) WHERE Col1 = 'Antioquia' ";0)
+```
+
 ## Uso como JSON
 
 
