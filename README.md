@@ -38,8 +38,11 @@ Obtener departamento de un municipio especificado:
 ```
 https://www.datos.gov.co/resource/xdk5-pm3f.csv?$select=dpto&nom_mpio=Florencia
 ```
+## Validar una cedula de Colombia con REgeX
 
-
+```
+^((\d{8})|(\d{10})|(\d{11})|(\d{6}-\d{5}))?$
+```
 ## Replica en Google Sheets
 
 La replica a continuación se usa para importar los datos que sean necesarios en hojas de calculo de Google y se permitira su
