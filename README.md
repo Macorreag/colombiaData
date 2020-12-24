@@ -43,6 +43,16 @@ https://www.datos.gov.co/resource/xdk5-pm3f.csv?$select=dpto&nom_mpio=Florencia
 ```
 ^((\d{8})|(\d{10})|(\d{11})|(\d{6}-\d{5}))?$
 ```
+
+### Reconocimiento de datos en Cédula
+Una cédula cuenta  con una serie de números en la parte inferior del código de barras, estos números y letras revelan información importante de éste documento. Algunos de ellos son:
+
+#### Primer letra Código barras 
+- **P** Primera vez que se genero el documento.
+- **A** Duplicado del documento ó Renovación del mismo.
+- **R** Existe una rectificación en el documento de identidad.
+
+
 ## Replica en Google Sheets
 
 La replica a continuación se usa para importar los datos que sean necesarios en hojas de calculo de Google y se permitira su
