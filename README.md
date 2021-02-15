@@ -2,6 +2,12 @@
 
 ## Municipios y Departamentos de Colombia API
 
+Se recomienda nombrar el campo de Municipios como: `cbc:CityName`
+
+Nota: Cuando se trate de Departamentos y Municipios en Colombia se realiza una validación
+cruzada entre el código del departamento y el código del municipio. Por lo que los valores Código Departamento y Código Municipio guardan la relación expresada en la siguiente tabla  [base natural de Datos Abiertos Colombia.](https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-C-digos-municipios/gdxc-w37w).
+
+
 Esta es una documentación para el uso de una API para el manejo de datos sobre la divición politica de colombia.
 
 Esta basada en replicas de la [base natural de Datos Abiertos Colombia.](https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-C-digos-municipios/gdxc-w37w)
