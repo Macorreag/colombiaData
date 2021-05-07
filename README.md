@@ -58,6 +58,13 @@ Una cédula cuenta  con una serie de números en la parte inferior del código d
 - **A** Duplicado del documento ó Renovación del mismo.
 - **R** Existe una rectificación en el documento de identidad.
 
+#### Escaneo de los datos de la cedula mediante el código de Barras que esta en formato [PDF417](https://es.wikipedia.org/wiki/PDF417)
+
+Aquí estan los datos como
+- Numero de Documento
+- Nombres Apellidos
+- Fecha de Nacimiento
+
 
 ## Replica en Google Sheets
 
