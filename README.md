@@ -128,3 +128,5 @@ Colombia
 
 - En google forms las listas desplegables para los municipios superarian las 1000 opciones lo que cargaria mucho un formulario de estos con ese tipo de opción, por lo tanto se propone la posibilidad de crear un formato que indique a las personas la forma de escribir un municipio ó departamento y validar cada uno de ellos con una expresión de REGEX de esta manera se descargaria la cantidad de posibilidades pero se valida en cierta medida que el municipio exista (por ejemplo no existen municipios con 'X' ó con tildes en la á etc) así se podria validar esto de una manera un poco limitada pero factible, un escenario posible de creacion y publicación es [https://regex101.com/](https://regex101.com/)
 *
+- Para las personas jurídicas el NIT será asignado mediante un proceso con la DIAN y la cámara de comercio correspondiente, está compuesto por 9 dígitos y un dígito de verificación adicional.(Se realizara un END-Point para validarlo con Regex y la formula que comprueba el numero de verificación)
+
