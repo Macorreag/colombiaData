@@ -7,6 +7,8 @@ Se recomienda nombrar el campo de Municipios como: `cbc:CityName`
 Nota: Cuando se trate de Departamentos y Municipios en Colombia se realiza una validación
 cruzada entre el código del departamento y el código del municipio. Por lo que los valores Código Departamento y Código Municipio guardan la relación expresada en la siguiente tabla  [base natural de Datos Abiertos Colombia.](https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-C-digos-municipios/gdxc-w37w).
 
+Se debe dejar separados los codigos de municipio y departamento y con una función dentro del json unirlos y validar si el codigo esta ó no
+
 
 Esta es una documentación para el uso de una API para el manejo de datos sobre la divición politica de colombia.
 
