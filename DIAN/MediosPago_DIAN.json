@@ -1,0 +1,299 @@
+{
+   "1": {
+      "Medio": "Instrumento no definido"
+   },
+   "2": {
+      "Medio": "Crédito ACH"
+   },
+   "3": {
+      "Medio": "Débito ACH"
+   },
+   "4": {
+      "Medio": "Reversión débito de demanda ACH"
+   },
+   "5": {
+      "Medio": "Reversión crédito de demanda ACH"
+   },
+   "6": {
+      "Medio": "Crédito de demanda ACH"
+   },
+   "7": {
+      "Medio": "Débito de demanda ACH"
+   },
+   "8": {
+      "Medio": "Mantener"
+   },
+   "9": {
+      "Medio": "Clearing Nacional o Regional"
+   },
+   "10": {
+      "Medio": "Efectivo"
+   },
+   "11": {
+      "Medio": "Reversión Crédito Ahorro"
+   },
+   "12": {
+      "Medio": "Reversión Débito Ahorro"
+   },
+   "13": {
+      "Medio": "Crédito Ahorro"
+   },
+   "14": {
+      "Medio": "Débito Ahorro"
+   },
+   "15": {
+      "Medio": "Bookentry Crédito"
+   },
+   "16": {
+      "Medio": "Bookentry Débito"
+   },
+   "17": {
+      "Medio": "Concentración de la demanda en efectivo\n/Desembolso Crédito (CCD) "
+   },
+   "18": {
+      "Medio": "Concentración de la demanda en efectivo / Desembolso (CCD) débito"
+   },
+   "19": {
+      "Medio": "Crédito Pago negocio corporativo (CTP)"
+   },
+   "20": {
+      "Medio": "Cheque"
+   },
+   "21": {
+      "Medio": "Proyecto bancario"
+   },
+   "22": {
+      "Medio": "Proyecto bancario certificado"
+   },
+   "23": {
+      "Medio": "Cheque bancario"
+   },
+   "24": {
+      "Medio": "Nota cambiaria esperando aceptación"
+   },
+   "25": {
+      "Medio": "Cheque certificado"
+   },
+   "26": {
+      "Medio": "Cheque Local"
+   },
+   "27": {
+      "Medio": "Débito Pago Negocio Corporativo (CTP)"
+   },
+   "28": {
+      "Medio": "Crédito Negocio Intercambio Corporativo (CTX)"
+   },
+   "29": {
+      "Medio": "Débito Negocio Intercambio Corporativo (CTX)"
+   },
+   "30": {
+      "Medio": "Transferencia Crédito"
+   },
+   "31": {
+      "Medio": "Transferencia Débito"
+   },
+   "32": {
+      "Medio": "Concentración Efectivo / Desembolso Crédito plus (CCD+)"
+   },
+   "33": {
+      "Medio": "Concentración Efectivo / Desembolso Débito plus (CCD+)"
+   },
+   "34": {
+      "Medio": "Pago y depósito pre acordado (PPD)"
+   },
+   "35": {
+      "Medio": "Concentración efectivo ahorros / Desembolso Crédito (CCD)"
+   },
+   "36": {
+      "Medio": "Concentración efectivo ahorros / Desembolso Crédito (CCD)"
+   },
+   "37": {
+      "Medio": "Pago Negocio Corporativo Ahorros Crédito (CTP)"
+   },
+   "38": {
+      "Medio": "Pago Negocio Corporativo Ahorros Débito (CTP)"
+   },
+   "39": {
+      "Medio": "Crédito Negocio Intercambio Corporativo (CTX)"
+   },
+   "40": {
+      "Medio": "Débito Negocio Intercambio Corporativo (CTX)"
+   },
+   "41": {
+      "Medio": "Concentración efectivo/Desembolso Crédito plus (CCD+)"
+   },
+   "42": {
+      "Medio": "Consignación bancaria"
+   },
+   "43": {
+      "Medio": "Concentración efectivo / Desembolso Débito plus (CCD+)"
+   },
+   "44": {
+      "Medio": "Nota cambiaria"
+   },
+   "45": {
+      "Medio": "Transferencia Crédito Bancario"
+   },
+   "46": {
+      "Medio": "Transferencia Débito Interbancario"
+   },
+   "47": {
+      "Medio": "Transferencia Débito Bancaria"
+   },
+   "48": {
+      "Medio": "Tarjeta Crédito"
+   },
+   "49": {
+      "Medio": "Tarjeta Débito"
+   },
+   "50": {
+      "Medio": "Postgiro"
+   },
+   "51": {
+      "Medio": "Telex estándar bancario francés"
+   },
+   "52": {
+      "Medio": "Pago comercial urgente"
+   },
+   "53": {
+      "Medio": "Pago Tesorería Urgente"
+   },
+   "54": {
+      "Medio": ""
+   },
+   "55": {
+      "Medio": ""
+   },
+   "56": {
+      "Medio": ""
+   },
+   "57": {
+      "Medio": ""
+   },
+   "58": {
+      "Medio": ""
+   },
+   "59": {
+      "Medio": ""
+   },
+   "60": {
+      "Medio": "Nota promisoria"
+   },
+   "61": {
+      "Medio": "Nota promisoria firmada por el acreedor"
+   },
+   "62": {
+      "Medio": "Nota promisoria firmada por el acreedor, avalada por el banco"
+   },
+   "63": {
+      "Medio": "Nota promisoria firmada por el acreedor, avalada por un tercero"
+   },
+   "64": {
+      "Medio": "Nota promisoria firmada por el banco"
+   },
+   "65": {
+      "Medio": "Nota promisoria firmada por un banco avalada por otro banco"
+   },
+   "66": {
+      "Medio": "Nota promisoria firmada"
+   },
+   "67": {
+      "Medio": "Nota promisoria firmada por un tercero avalada por un banco"
+   },
+   "68": {
+      "Medio": ""
+   },
+   "69": {
+      "Medio": ""
+   },
+   "70": {
+      "Medio": "Retiro de nota por el por el acreedor"
+   },
+   "71": {
+      "Medio": "Bonos"
+   },
+   "72": {
+      "Medio": "Vales"
+   },
+   "73": {
+      "Medio": ""
+   },
+   "74": {
+      "Medio": "Retiro de nota por el por el acreedor sobre un banco"
+   },
+   "75": {
+      "Medio": "Retiro de nota por el acreedor, avalada por otro banco"
+   },
+   "76": {
+      "Medio": "Retiro de nota por el acreedor, sobre un banco avalada por un tercero"
+   },
+   "77": {
+      "Medio": "Retiro de una nota por el acreedor sobre un tercero"
+   },
+   "78": {
+      "Medio": "Retiro de una nota por el acreedor sobre un tercero avalada por un banco"
+   },
+   "79": {
+      "Medio": ""
+   },
+   "80": {
+      "Medio": ""
+   },
+   "81": {
+      "Medio": ""
+   },
+   "82": {
+      "Medio": ""
+   },
+   "83": {
+      "Medio": ""
+   },
+   "84": {
+      "Medio": ""
+   },
+   "85": {
+      "Medio": ""
+   },
+   "86": {
+      "Medio": ""
+   },
+   "87": {
+      "Medio": ""
+   },
+   "88": {
+      "Medio": ""
+   },
+   "89": {
+      "Medio": ""
+   },
+   "90": {
+      "Medio": ""
+   },
+   "91": {
+      "Medio": "Nota bancaria transferible"
+   },
+   "92": {
+      "Medio": "Cheque local trasferible"
+   },
+   "93": {
+      "Medio": "Giro referenciado"
+   },
+   "94": {
+      "Medio": "Giro urgente"
+   },
+   "95": {
+      "Medio": "Giro formato abierto"
+   },
+   "96": {
+      "Medio": "Método de pago solicitado no usado"
+   },
+   "97": {
+      "Medio": "Clearing entre partners"
+   },
+   "98": {
+      "Medio": "Cuentas de Ahorro de Tramite Simplificado (CATS)(Nequi, Daviplata, etc)"
+   },
+   "ZZZ": {
+      "Medio": "Acuerdo mutuo"
+   }
+}
