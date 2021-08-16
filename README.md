@@ -129,6 +129,10 @@ https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQsKL-Rcv6p79tuN-JrjXCuws89l
 
 **
 
+## Validación de numeros de cuentas bancarias 
+Para el banco BBVA de 20 digítos se usa estructura el código IBAN se puede usar inicialmente un [Regex para el numero](https://regex101.com/library/az8oJ8) y luego si es de 20 dígitos validar la entidad bancaria de la cuenta
+
+
 ## Por Incluir
 - Unir los datos acorde a la [Norma ISO 3166 COUNTRY CODES](https://www.iso.org/iso-3166-country-codes.html) para poder utilizar estos datos en plataformas que utilzan este estandar como guia.
 - Se plantea la mejora mediante la inclusión de un Script de Google que facilite el acceso a estos datos por ejemplo con la librería [librería](https://github.com/bradjasper/ImportJSON).
