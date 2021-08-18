@@ -56,9 +56,16 @@ https://www.datos.gov.co/resource/xdk5-pm3f.csv?$select=dpto&nom_mpio=Florencia
 Una cédula cuenta  con una serie de números en la parte inferior del código de barras, estos números y letras revelan información importante de éste documento. Algunos de ellos son:
 
 #### Primer letra Código barras 
-- **P** Primera vez que se genero el documento.
-- **A** Duplicado del documento ó Renovación del mismo.
-- **R** Existe una rectificación en el documento de identidad.
+- **P** _Primera vez que se genero el documento_
+- **A** _Actualización de la cédula_ Quiere decir que el documento corresponde a un duplicado del documento ó Renovación del mismo.
+- **R** _Rectificación de la cédula_ Existe una rectificación en el documento de identidad.
+
+
+#### Segunda letra
+- **F** Femenino
+- **M** Masculino
+
+
 
 #### Escaneo de los datos de la cedula mediante el código de Barras que esta en formato [PDF417](https://es.wikipedia.org/wiki/PDF417)
 
