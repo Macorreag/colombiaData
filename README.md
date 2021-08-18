@@ -136,6 +136,10 @@ https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQsKL-Rcv6p79tuN-JrjXCuws89l
 
 **
 
+## Bancos de Colombia
+
+https://www.superfinanciera.gov.co/inicio/industrias-supervisadas/entidades-vigiladas-por-la-superintendencia-financiera-de-colombia/lista-general-de-entidades-vigiladas-por-la-superintendencia-financiera-de-colombia-61694
+
 ## Validación de numeros de cuentas bancarias 
 Para el banco BBVA de 20 digítos se usa estructura el código IBAN se puede usar inicialmente un [Regex para el numero](https://regex101.com/library/az8oJ8) y luego si es de 20 dígitos validar la entidad bancaria de la cuenta
 
