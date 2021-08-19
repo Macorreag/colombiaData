@@ -1,3 +1,3 @@
-export function Course() {
+function Course() {
     return "test pased;"
 };
